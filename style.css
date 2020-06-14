@@ -1,0 +1,29 @@
+.jumbotron {
+    background-image: url(img/slider1.JPG);
+    background-size: cover;
+    height: 720px;
+    text-align: center;
+
+}
+.jumbotron .display-4 {
+    color: sandybrown;
+}
+.jumbotron p {
+    color: sandybrown;
+    font-size: 25px;
+}
+
+@font-face {
+    font-family: tulisan_keren;
+    src: url(RedRock\ \(free\ for\ personal\ use\).ttf);
+}
+
+h1, h2, h3, h4, h5, p, a {
+font-family: 'tulisan_keren';
+font-size: medium;
+font-variant: inherit;
+color: sandybrown;
+}
+
+
+

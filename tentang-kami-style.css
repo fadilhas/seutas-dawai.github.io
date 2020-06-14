@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image: url(img/slider3.JPG);
+    background-size: cover;
+    height: 720px;
+    text-align: center;
+
+}
+.jumbotron .display-4 {
+    color: lightcoral;
+}
+.jumbotron p {
+    color: lightcoral;
+    font-size: 25px;
+}
+
+@font-face {
+    font-family: tulisan_keren;
+    src: url(RedRock\ \(free\ for\ personal\ use\).ttf);
+}
+
+h1, p, a {
+font-family: 'tulisan_keren';
+font-size: medium;
+font-variant: inherit;
+color: lightcoral;
+}
